@@ -80,6 +80,10 @@
     background: url(touchpad.gif) no-repeat center;
 }
 
+.ds4 .touchpad.pressed {
+    background: url(touchpad.gif) no-repeat center;
+}
+
 .ds4 .meta {
     width: 42px;
     height: 42px;
