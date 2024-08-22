@@ -76,7 +76,7 @@
     top: 122px;
 }
 
-.ds4 .touchpad.pressed {
+.ds4 .touchpad {
     background: url(touchpad.gif) no-repeat center;
 }
 
